@@ -1,6 +1,4 @@
 # Daksh Arya
-# Daksh Arya 
-
 
 
 
